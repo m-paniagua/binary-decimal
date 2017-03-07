@@ -1,0 +1,5 @@
+﻿  Source.cpp
+g:\co_sci_839\quiz2\quiz2\source.cpp(38): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+g:\co_sci_839\quiz2\quiz2\source.cpp(40): warning C4018: '<': signed/unsigned mismatch
+  quiz2.vcxproj -> G:\co_sci_839\quiz2\Debug\quiz2.exe
+  quiz2.vcxproj -> G:\co_sci_839\quiz2\Debug\quiz2.pdb (Full PDB)
